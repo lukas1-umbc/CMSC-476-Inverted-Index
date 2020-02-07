@@ -66,7 +66,7 @@ def main():
         f.write(word.strip() + ": " + str(inv_index[word]) + "\n")
     f.close()
 
-    g = open("freq_sort", "w")
+    g = open("freq_sort.txt", "w")
     for word, freq in sorted(inv_index.items(), key=lambda item: item[1], reverse=True):
         g.write(word.strip() + ": " + str(freq) + "\n")
     g.close()
