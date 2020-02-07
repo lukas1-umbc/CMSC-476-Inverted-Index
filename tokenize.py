@@ -15,6 +15,7 @@ def main():
     #create output directory
     os.makedirs(out_path)
 
+    #for each HTML input file
     for filename in os.listdir(in_path):
 
         file_loc = in_path + filename    
@@ -38,9 +39,36 @@ def main():
             #don't print the good_words that are nothing after being stripped
             if good_word != "":
                 #print(good_word.lower())
-                plain_file.write(good_word + "\n")
+                plain_file.write(good_word.lower() + "\n")
 
         html_file.close()
         plain_file.close()
+
+
+    inv_index = {}
+
+    #for each plain output file
+    for filename in os.listdir(out_path):
+        
+        plain_file = open(out_path + filename, "r")
+
+        #add words from the file to the dictionary, update frequencies
+        for word in plain_file:
+            if word in inv_index:
+                inv_index[word] += 1
+            else:
+                inv_index[word] = 1
+
+        plain_file.close()
+
+    f = open("token_sort.txt", "w")
+    for word in sorted(inv_index.keys()):
+        f.write(word.strip() + ": " + str(inv_index[word]) + "\n")
+    f.close()
+
+    g = open("freq_sort", "w")
+    for word, freq in sorted(inv_index.items(), key=lambda item: item[1], reverse=True):
+        g.write(word.strip() + ": " + str(freq) + "\n")
+    g.close()
 
 main()
