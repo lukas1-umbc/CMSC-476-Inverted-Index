@@ -9,11 +9,10 @@ def main():
     #ignore image stuff
     text_maker.ignore_images = True
     
-    #path to input directory of html files
-    in_path = "E:/UMBC/CMSC/CMSC 476 - Information Retrieval/Project/input_dir/"
+    in_path = input("Enter the path to the directory of HTML files, ending with a forward slash (/): ")
+    out_path = input("Enter the path to the directory where the plain files will be stored, ending with a forward slash (/): ")
 
     #create output directory
-    out_path = "E:/UMBC/CMSC/CMSC 476 - Information Retrieval/Project/output_dir/"
     os.makedirs(out_path)
 
     for filename in os.listdir(in_path):
