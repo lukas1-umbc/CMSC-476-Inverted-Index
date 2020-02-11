@@ -3,9 +3,10 @@ import numpy
 import html2text
 import string
 import os
+import sys
 import time
 
-def main():
+def main(argv):
 
     time_axis = []
 
@@ -16,8 +17,8 @@ def main():
     #ignore image stuff
     text_maker.ignore_images = True
     
-    in_path = input("Enter the path to the directory of HTML files, ending with a forward slash (/): ")
-    out_path = input("Enter the path to the directory where the plain files will be stored, ending with a forward slash (/): ")
+    in_path =  sys.argv[1]
+    out_path = sys.argv[2]
 
     start = time.time()
 
@@ -64,7 +65,6 @@ def main():
 
         NUM_DOCS_PROCESSED += 1
         processed_time = time.time()
-        print(str(NUM_DOCS_PROCESSED) + " documents processed at " + str(round(processed_time - start, 2)) + " seconds")
         time_axis.append(round(processed_time - start, 2))
 
     #list the words and their frequencies by token
@@ -79,12 +79,7 @@ def main():
         g.write(word.strip() + ": " + str(freq) + "\n")
     g.close()
 
-    end = time.time()
-    print("Elapsed time = " + str(end - start) + " seconds")
-
-
     docs_axis = [num for num in range(1, NUM_DOCS_PROCESSED + 1)]
-
     fig = plt.figure()
     #line graph - time vs num docs processed
     plt.plot(time_axis, docs_axis)
@@ -93,4 +88,5 @@ def main():
     plt.ylabel("# Documents Processed")
     plt.savefig("time_vs_docs.png")
 
-main()
+if __name__ == "__main__":
+   main(sys.argv[1:])
