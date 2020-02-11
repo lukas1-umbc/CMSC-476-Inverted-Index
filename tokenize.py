@@ -29,6 +29,7 @@ def main():
 
         #put plain files in output directory
         out_file_name = "plain_" + filename
+        out_file_name = out_file_name.strip("html") + "txt"
         plain_file = open(out_path + out_file_name, "w")
 
         for word in words:
