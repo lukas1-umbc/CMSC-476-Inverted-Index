@@ -1,7 +1,6 @@
 college
-of
 continuing
 education
-commentsquestions
-last
+comments
+questions
 revision

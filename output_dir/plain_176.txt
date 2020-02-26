@@ -6,7 +6,6 @@ length
 ring
 wrapper
 box
-of
 price
 single
 ascot
@@ -36,8 +35,7 @@ philip
 natural
 rothschild
 natural
-the
-barons
+baron
 choice
 cigars
 cigar
@@ -49,14 +47,12 @@ length
 ring
 wrapper
 box
-of
 price
 single
 natural
 tubos
 natural
-the
-barons
+baron
 choice
 cigars
 cigar
@@ -68,7 +64,6 @@ length
 ring
 wrapper
 box
-of
 price
 single
 claro
@@ -76,8 +71,7 @@ churchill
 claro
 delicias
 natural
-the
-barons
+baron
 choice
 cigars
 cigar
@@ -91,7 +85,6 @@ length
 ring
 wrapper
 box
-of
 price
 single
 natural
@@ -102,8 +95,7 @@ chavon
 natural
 soberanos
 natural
-the
-barons
+baron
 choice
 cigars
 cigar

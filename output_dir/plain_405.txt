@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 bold
 type
 acu
@@ -18,7 +17,6 @@ flippo
 buchanan
 flowers
 alaska
-young
 arizona
 rhodes
 udall
@@ -35,9 +33,7 @@ clausen
 moss
 legget
 burton
-j
 burton
-p
 miller
 dellums
 stark
@@ -63,7 +59,6 @@ burke
 hawkins
 danielson
 wilson
-c
 anderson
 clawson
 hannaford
@@ -74,7 +69,6 @@ patterson
 wiggins
 badham
 wilson
-b
 van
 deerlin
 bergener
@@ -93,8 +87,6 @@ sarasin
 moffett
 delaware
 evans
-t
-b
 jr
 florida
 sikes
@@ -102,7 +94,6 @@ fuqua
 bennett
 chappell
 kelly
-young
 gibbons
 ireland
 frey
@@ -147,7 +138,7 @@ mcclory
 erlenborn
 corcoran
 anderson
-obrien
+brien
 michel
 railsback
 findley
@@ -196,13 +187,11 @@ waggonner
 huckaby
 moore
 breaux
-long
 maine
 emery
 cohen
 maryland
 bauman
-long
 mikulski
 holt
 spellman
@@ -212,12 +201,11 @@ steers
 massachusetts
 conte
 boland
-early
 drinan
 tsongas
 harrington
 markey
-oneill
+neill
 moakley
 heckler
 burke
@@ -239,7 +227,6 @@ bonior
 diggs
 nedzi
 ford
-w
 dingell
 brodhead
 blanchard
@@ -261,8 +248,6 @@ cochran
 lott
 missouri
 clay
-young
-r
 gephart
 skelton
 coleman
@@ -279,11 +264,9 @@ cavanaugh
 smith
 nevada
 santini
-new
 hampshire
-damours
+amours
 cleveland
-new
 jersey
 florio
 hughes
@@ -300,11 +283,9 @@ rinaldo
 meyner
 lafante
 patten
-new
 mexico
 lujan
 runnels
-new
 york
 pike
 downey
@@ -373,8 +354,6 @@ kindness
 ashley
 miller
 stanton
-j
-w
 devine
 pease
 seiberling
@@ -393,7 +372,6 @@ risenhoover
 watkins
 steed
 edwards
-m
 english
 oregon
 aucoin
@@ -402,7 +380,6 @@ duncan
 weaver
 pennsylvania
 myers
-m
 nix
 lederer
 eilberg
@@ -424,11 +401,9 @@ goodling
 gaydos
 dent
 murphy
-a
 ammerman
 marks
 meyers
-g
 rhode
 island
 st
@@ -469,7 +444,6 @@ pickle
 poage
 wright
 hightower
-young
 de
 la
 garza
@@ -492,9 +466,7 @@ trible
 whitehurst
 satterfield
 daniel
-rw
 daniel
-d
 butler
 robinson
 harris

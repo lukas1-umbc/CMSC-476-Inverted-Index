@@ -13,7 +13,6 @@ neto
 estados
 de
 origen
-y
 aplicacion
 de
 fondos
@@ -26,10 +25,8 @@ contables
 exposicion
 sobre
 petroleo
-y
 gas
 informacion
-no
 cubierta
 por
 el

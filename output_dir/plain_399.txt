@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 bold
 alabama
 allen
@@ -57,7 +56,6 @@ huddleston
 cook
 louisiana
 johnston
-long
 maine
 muskie
 hathaway
@@ -88,19 +86,14 @@ hruska
 nevada
 bible
 cannon
-new
 hampshire
 mcintyre
 cotton
-new
 jersey
 williams
-case
-new
 mexico
 montoya
 domenici
-new
 york
 buckley
 javits
@@ -111,7 +104,6 @@ helms
 north
 dakota
 burdick
-young
 ohio
 saxbe
 taft

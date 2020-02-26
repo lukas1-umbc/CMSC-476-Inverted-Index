@@ -5,10 +5,11 @@ import string
 import os
 import sys
 import time
+import re
 
 #tokenizes the words in the text object, adds them to the index
 #outputs the number of new tokens
-def tokenizeWords(text, filename, out_path, inv_index):
+def tokenizeWords(text, filename, out_path, inv_index, stop_set):
 
     #keep track of how many new tokens there are
     NUM_TOKENS = 0
@@ -23,20 +24,27 @@ def tokenizeWords(text, filename, out_path, inv_index):
 
     for word in words:
 
+        #use regex to split tokens based on special characters (\W), underscores, and decimals (\d)
+        good_word_list = re.split("[\W|_|\d]+", word)
+
         #strip word of special characters and numbers, make it lowercase
-        good_word = ''.join(char for char in word if char.isalpha())
-        good_word = good_word.lower()
+        #good_word = ''.join(char for char in word if char.isalpha())
+        #good_word = good_word.lower()
 
-        #don't write the good words that are nothing after being stripped
-        if good_word != "":
-            plain_file.write(good_word + "\n")
+        for good_word in good_word_list:
 
-            #add words to dictionary, update frequencies
-            if good_word in inv_index:
-                inv_index[good_word] += 1
-            else:
-                inv_index[good_word] = 1
-                NUM_TOKENS += 1
+            good_word = good_word.lower()
+            
+            #don't write the good words that are nothing after being stripped
+            if good_word not in stop_set and good_word != "":
+                plain_file.write(good_word + "\n")
+
+                #add words to dictionary, update frequencies
+                if good_word in inv_index:
+                    inv_index[good_word] += 1
+                else:
+                    inv_index[good_word] = 1
+                    NUM_TOKENS += 1
 
     plain_file.close()
     return NUM_TOKENS
@@ -83,7 +91,8 @@ def main(argv):
     text_maker = html2text.HTML2Text()
     text_maker.ignore_links = True
     text_maker.ignore_images = True
-    
+
+    #directory paths are command line inputs    
     in_path =  sys.argv[1]
     out_path = sys.argv[2]
 
@@ -91,7 +100,21 @@ def main(argv):
 
     #create output directory
     os.makedirs(out_path)
+        
+    #create set of stopwords
+    stop_file = open("stoplist.txt", "r")
+    stop_set = set()
+    for word in stop_file:
+        #stop words have special characters (apostraphe), but the tokens will not
+        #should work out because even though "she's" gets split into "she" and "s", "s" is in the stoplist anyway
+        #anything leftover like that will not be wanted anyway
+        stop_word_list = re.split("[\W]+", word)
+        for stop_word in stop_word_list:
+            stop_set.add(stop_word)
+    stop_file.close()
+    print(stop_set)
 
+    #dictionary for all the tokens
     inv_index = {}
 
     #for each HTML input file
@@ -103,7 +126,7 @@ def main(argv):
         #strip html away
         text = text_maker.handle(html)
 
-        NUM_TOKENS += tokenizeWords(text, filename, out_path, inv_index)
+        NUM_TOKENS += tokenizeWords(text, filename, out_path, inv_index, stop_set)
 
         html_file.close()
 
@@ -111,9 +134,11 @@ def main(argv):
         processed_time = time.time()
         time_axis.append(round(processed_time - start, 2))
 
+    #Make files
     tokenOrderFile(inv_index)
     freqOrderFile(inv_index)
     
+    #Make graph
     docs_axis = [num for num in range(1, NUM_DOCS_PROCESSED + 1)]
     graphTimeVSDocs(time_axis, docs_axis)
 

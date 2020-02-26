@@ -2,7 +2,6 @@ acu
 senate
 ratings
 republicans
-in
 caps
 acu
 key
@@ -64,7 +63,6 @@ cook
 cooper
 louisiana
 edwards
-long
 maine
 muskie
 smith
@@ -95,19 +93,14 @@ hruska
 nevada
 bible
 cannon
-new
 hampshire
 mcintyre
 cotton
-new
 jersey
 williams
-case
-new
 mexico
 anderson
 montoya
-new
 york
 buckley
 javits
@@ -118,7 +111,6 @@ jordan
 north
 dakota
 burdick
-young
 ohio
 saxbe
 taft
@@ -165,7 +157,6 @@ magnuson
 west
 virginia
 byrd
-r
 randolph
 wisconsin
 nelson

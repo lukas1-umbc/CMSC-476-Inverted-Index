@@ -21,7 +21,6 @@ para
 perforar
 aproximadament
 pozos
-y
 pozos
 inyectores
 esta
@@ -51,7 +50,6 @@ pozos
 en
 esta
 zona
-y
 mas
 de
 reparaciones
@@ -94,7 +92,6 @@ mas
 de
 nuevos
 pozos
-y
 realizara
 mas
 de

@@ -20,7 +20,6 @@ ypf
 lanzo
 un
 programa
-a
 largo
 plazo
 para
@@ -43,7 +42,6 @@ de
 los
 costos
 operativos
-y
 el
 fortalecimiento
 de
@@ -60,14 +58,12 @@ de
 estas
 medidas
 contribuyeron
-a
 las
 significativas
 mejoras
 operativas
 registradas
 en
-y
 las
 actividades
 emprendidas
@@ -82,7 +78,6 @@ un
 impacto
 semejante
 en
-y
 años
 subsiguientes
 en
@@ -112,7 +107,6 @@ en
 practica
 un
 refinado
-y
 complejo
 sistema
 de
@@ -160,7 +154,6 @@ terminos
 de
 contratos
 nuevos
-y
 rentables
 completo
 importantes
@@ -193,7 +186,6 @@ de
 ypf
 se
 procesan
-y
 venden
 sin
 plomo
@@ -214,7 +206,6 @@ años
 de
 vigencia
 contribuyo
-a
 reducir
 los
 costos
@@ -231,7 +222,6 @@ las
 mermas
 de
 crudo
-y
 el
 consumo
 de
@@ -253,7 +243,6 @@ millones
 en
 comparacion
 con
-y
 se
 esperan
 nuevas
@@ -264,7 +253,6 @@ factor
 clave
 que
 contribuira
-a
 mejorar
 los
 costos
@@ -294,18 +282,15 @@ de
 hidrotratamiento
 de
 naftas
-y
 posteriormente
 la
 unidad
 de
 isomerizacion
 tambien
-a
 fines
 de
 comenzara
-a
 funcionar
 una
 unidad
@@ -314,13 +299,13 @@ en
 febrero
 de
 comenzo
-a
 funcionar
 una
 planta
 de
 mtbe
-metilterbutil
+metil
+terbutil
 eter
 en
 la
@@ -341,7 +326,6 @@ de
 nafta
 sin
 plomo
-y
 el
 octanaje
 de
@@ -360,7 +344,6 @@ plantas
 una
 de
 isomerizacion
-y
 otra
 de
 alkilacion
@@ -396,7 +379,6 @@ internacionales
 aumentara
 el
 octanaje
-y
 se
 reduciran
 significativamente
@@ -404,7 +386,6 @@ los
 niveles
 de
 benceno
-y
 de
 hidrocarburos
 aromaticos

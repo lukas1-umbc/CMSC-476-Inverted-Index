@@ -6,7 +6,6 @@ estructura
 de
 costos
 en
-a
 partir
 de
 los
@@ -16,17 +15,12 @@ extraccion
 se
 redujeron
 de
-us
 por
 barril
 de
 petroleo
 equivalente
-a
-us
 en
-y
-us
 en
 los
 costos
@@ -44,7 +38,6 @@ nuevos
 metodos
 de
 perfilaje
-y
 tecnologias
 de
 punta
@@ -90,7 +83,6 @@ yacimientos
 se
 puede
 vender
-a
 terceros
 con
 una

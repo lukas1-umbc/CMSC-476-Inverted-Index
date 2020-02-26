@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 bold
 type
 acu
@@ -18,7 +17,6 @@ flippo
 erdreich
 harris
 alaska
-young
 arizona
 rhodes
 iii
@@ -39,7 +37,6 @@ fazio
 pelosi
 boxer
 miller
-g
 dellums
 stark
 edwards
@@ -103,7 +100,6 @@ chappell
 mccollum
 mackay
 gibbons
-young
 bilirakis
 ireland
 nelson
@@ -211,7 +207,6 @@ morella
 massachusetts
 conte
 boland
-early
 frank
 atkins
 mavroules
@@ -237,7 +232,6 @@ bonior
 crockett
 hertel
 ford
-w
 dingell
 levin
 broomfield
@@ -268,7 +262,6 @@ emerson
 volkner
 montana
 williams
-p
 marlenee
 nebraska
 bereuter
@@ -277,11 +270,9 @@ smith
 nevada
 bilbray
 vucanovich
-new
 hampshire
 smith
 gregg
-new
 jersey
 florio
 hughes
@@ -297,12 +288,10 @@ gallo
 courter
 saxton
 guarini
-new
 mexico
 lujan
 skeen
 richardson
-new
 york
 hochbrueckner
 downey
@@ -358,7 +347,6 @@ ohio
 luken
 gradison
 hall
-t
 oxley
 latta
 mcewen
@@ -383,17 +371,14 @@ synar
 watkins
 mccurdy
 edwards
-m
 english
 oregon
 aucoin
 smith
-r
 wyden
 de
 fazio
 smith
-d
 pennsylvania
 foglietta
 gray
@@ -409,7 +394,6 @@ kanjorski
 murtha
 coughlin
 coyne
-w
 ritter
 walker
 gekas
@@ -418,7 +402,6 @@ goodling
 gaydos
 ridge
 murphy
-a
 clinger
 rhode
 island
@@ -449,10 +432,8 @@ ford
 texas
 chapman
 wilson
-c
 bartlett
 hall
-r
 bryant
 barton
 archer
@@ -491,7 +472,6 @@ pickett
 bliley
 sisisky
 daniel
-d
 olin
 slaughter
 parris

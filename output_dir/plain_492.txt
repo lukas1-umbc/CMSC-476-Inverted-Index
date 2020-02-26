@@ -1,5 +1,4 @@
 ypf
-sa
 informacion
 sobre
 resultados
@@ -13,7 +12,8 @@ noviembre
 ypf
 sociedad
 anonima
-nyseypf
+nyse
+ypf
 informo
 una
 utilidad
@@ -27,7 +27,6 @@ de
 la
 cual
 ascendio
-a
 millones
 lo
 que
@@ -72,11 +71,9 @@ hechos
 que
 la
 afectan
-y
 que
 se
 detallan
-a
 continuacion
 en
 el
@@ -87,7 +84,6 @@ se
 incluyo
 una
 ganancia
-no
 recurrente
 relacionada
 con
@@ -124,16 +120,12 @@ por
 el
 año
 ypf
-sa
 debe
 comenzar
-a
 pagar
 impuesto
-a
 las
 ganancias
-y
 consecuentemente
 el
 tercer
@@ -171,14 +163,12 @@ meses
 de
 este
 cargo
-no
 se
 efectuaba
 en
 por
 tener
 ypf
-sa
 quebrantos
 impositivos
 acumulados
@@ -192,7 +182,6 @@ nueve
 meses
 de
 crecio
-a
 millones
 respecto
 de
@@ -222,7 +211,6 @@ del
 mismo
 periodo
 de
-a
 esta
 comparacion
 le
@@ -238,7 +226,6 @@ al
 comentar
 los
 resultados
-y
 actividades
 del
 tercer
@@ -248,7 +235,6 @@ el
 presidente
 de
 ypf
-sa
 nells
 leon
 expreso
@@ -278,7 +264,6 @@ combinacion
 de
 mayores
 precios
-y
 volumenes
 del
 crudo
@@ -287,7 +272,6 @@ mejora
 en
 los
 precios
-y
 volumenes
 del
 gas
@@ -299,7 +283,6 @@ proveniente
 de
 ypf
 international
-y
 los
 esfuerzos
 en
@@ -327,7 +310,6 @@ este
 tercer
 trimestre
 de
-y
 durante
 los
 primeros
@@ -346,7 +328,6 @@ crecimiento
 con
 rentabilidad
 llevada
-a
 cabo
 por
 ypf
@@ -369,9 +350,7 @@ inversion
 de
 sus
 accionistas
-y
 alcanzar
-y
 mantener
 los
 estandares
@@ -389,7 +368,6 @@ progreso
 alcanzado
 por
 ypf
-y
 creemos
 que
 el
@@ -404,7 +382,6 @@ vs
 tercer
 trimestre
 exploracion
-y
 produccion
 upstream
 en
@@ -416,7 +393,6 @@ el
 segmento
 de
 exploracion
-y
 produccion
 obtuvo
 las
@@ -438,7 +414,6 @@ millones
 superando
 en
 un
-a
 los
 millones
 obtenidos
@@ -465,18 +440,15 @@ los
 de
 los
 precios
-y
 volumenes
 del
 crudo
 mayores
 precios
-y
 volumenes
 del
 gas
 natural
-y
 menores
 costos
 de
@@ -496,7 +468,6 @@ amortizaciones
 las
 amortizaciones
 ascendieron
-a
 millones
 en
 comparacion
@@ -531,7 +502,6 @@ en
 la
 exploracion
 del
-area
 noroeste
 en
 linea
@@ -556,7 +526,6 @@ del
 upstream
 local
 crecio
-us
 por
 barril
 siendo
@@ -567,13 +536,11 @@ el
 tercer
 trimestre
 de
-us
 por
 barril
 en
 comparacion
 con
-us
 para
 el
 tercer
@@ -631,7 +598,6 @@ tercer
 trimestre
 de
 ascendieron
-a
 mil
 barriles
 por
@@ -661,7 +627,6 @@ en
 la
 cuenca
 neuquina
-y
 por
 el
 incremento
@@ -707,7 +672,6 @@ tercer
 trimestre
 de
 ascendio
-a
 millones
 de
 pies
@@ -756,7 +720,6 @@ trimestre
 de
 de
 exploracion
-y
 produccion
 crecio
 principalmente
@@ -769,10 +732,8 @@ los
 precios
 del
 crudo
-y
 mayores
 precios
-y
 volumenes
 de
 gas
@@ -785,7 +746,6 @@ hidraulicidad
 en
 argentina
 exploracion
-y
 produccion
 internacional
 la
@@ -794,7 +754,6 @@ operativa
 del
 segmento
 exploracion
-y
 produccion
 internacional
 en
@@ -803,11 +762,9 @@ tercer
 trimestre
 de
 ascendio
-a
 millones
 superando
 ampliamente
-a
 los
 millones
 obtenidos
@@ -821,7 +778,6 @@ en
 los
 mayores
 volumenes
-y
 precios
 para
 el
@@ -834,7 +790,8 @@ estados
 unidos
 de
 norteamerica
-eeuu
+ee
+uu
 mayores
 precios
 del
@@ -843,7 +800,6 @@ menores
 gastos
 de
 exploracion
-y
 reduccion
 de
 costos
@@ -865,7 +821,6 @@ dia
 fueron
 relativamente
 similares
-a
 los
 mil
 barriles
@@ -882,7 +837,6 @@ mayores
 volumenes
 de
 ecuador
-y
 bolivia
 se
 compensaron
@@ -891,7 +845,6 @@ menores
 volumenes
 en
 sumatra
-y
 noroeste
 de
 java
@@ -914,7 +867,6 @@ los
 menores
 costos
 incurridos
-y
 los
 mayores
 precios
@@ -926,7 +878,6 @@ de
 gas
 natural
 crecieron
-a
 millones
 de
 pies
@@ -947,24 +898,21 @@ el
 año
 anterior
 debido
-a
 las
 nuevas
 perforaciones
 de
 desarrollo
 llevadas
-a
 cabo
 en
-eeuu
-y
+ee
+uu
 mayores
 volumenes
 aportados
 por
 las
-areas
 del
 noroeste
 de
@@ -977,7 +925,8 @@ de
 precios
 obtenidos
 en
-eeuu
+ee
+uu
 aumento
 un
 de
@@ -992,7 +941,6 @@ trimestre
 del
 año
 anterior
-a
 por
 mil
 pies
@@ -1024,22 +972,18 @@ mismo
 año
 debido
 fundamentalmente
-a
 mayores
 precios
 del
 crudo
-y
 mayores
 volumenes
 de
 gas
 natural
 industrializacion
-y
 comercializacion
 downstream
-a
 pesar
 de
 haber
@@ -1055,7 +999,6 @@ reduccion
 de
 costos
 operativos
-y
 de
 la
 mayor
@@ -1071,7 +1014,6 @@ ganancia
 operativa
 de
 industrializacion
-y
 comercializacion
 en
 el
@@ -1092,7 +1034,6 @@ trimestre
 de
 debido
 fundamentalmente
-a
 la
 imposibilidad
 de
@@ -1102,7 +1043,6 @@ mayores
 costos
 del
 crudo
-a
 traves
 de
 los
@@ -1116,7 +1056,6 @@ otra
 parte
 los
 precios
-y
 volumenes
 de
 los
@@ -1172,11 +1111,9 @@ tercer
 trimestre
 de
 industrializacion
-y
 comercializacion
 disminuyo
 debido
-a
 los
 mayores
 costos
@@ -1200,7 +1137,6 @@ de
 la
 corporacion
 ascendieron
-a
 millones
 durante
 el
@@ -1230,7 +1166,8 @@ en
 el
 rubro
 otros
-egresosingresos
+egresos
+ingresos
 se
 registro
 una
@@ -1260,7 +1197,6 @@ en
 de
 una
 ganancia
-no
 recurrente
 por
 millones
@@ -1273,7 +1209,6 @@ el
 valor
 de
 mercado
-y
 el
 valor
 nominal
@@ -1327,7 +1262,6 @@ millones
 manteniendose
 relativamente
 similares
-a
 los
 millones
 del
@@ -1358,25 +1292,21 @@ de
 maxus
 de
 millones
-y
 millones
 por
 el
 tercer
 trimestre
 de
-y
 respectivamente
 otros
 resultados
 financieros
-y
 por
 tenencia
 otros
 resultados
 financieros
-y
 por
 tenencia
 del
@@ -1414,7 +1344,6 @@ por
 activos
 de
 millones
-y
 millones
 de
 resultado
@@ -1423,14 +1352,12 @@ por
 tenencia
 de
 inventarios
-y
 diferencia
 de
 cambio
 otros
 resultados
 financieros
-y
 por
 tenencia
 del
@@ -1457,12 +1384,10 @@ al
 resultado
 por
 exposicion
-a
 la
 inflacion
 sobre
 activos
-y
 pasivos
 monetarios
 hasta
@@ -1472,7 +1397,6 @@ agosto
 diferencias
 de
 cambio
-y
 resultado
 por
 tenencia
@@ -1503,11 +1427,9 @@ los
 resultados
 por
 exposicion
-a
 la
 inflacion
 debido
-a
 la
 baja
 inflacion
@@ -1529,7 +1451,6 @@ de
 que
 las
 sociedades
-no
 deberan
 reflejar
 el
@@ -1542,12 +1463,10 @@ sus
 estados
 contables
 impuesto
-a
 las
 ganancias
 el
 impuesto
-a
 las
 ganancias
 durante
@@ -1556,7 +1475,6 @@ tercer
 trimestre
 de
 incluye
-i
 millones
 provisionados
 en
@@ -1567,7 +1485,6 @@ operaciones
 de
 la
 sociedad
-y
 de
 sus
 controladas
@@ -1575,7 +1492,6 @@ consolidadas
 excepto
 ypf
 international
-y
 ii
 millones
 como
@@ -1600,7 +1516,6 @@ la
 tasa
 del
 impuesto
-a
 las
 ganancias
 vigente
@@ -1617,17 +1532,14 @@ sociedad
 excluyendo
 las
 subsidiarias
-no
 registro
 cargo
 alguno
 por
 impuesto
-a
 las
 ganancias
 debido
-a
 las
 perdidas
 impositivas
@@ -1639,7 +1551,6 @@ entre
 los
 resultados
 contables
-e
 impositivos
 durante
 el
@@ -1654,7 +1565,6 @@ la
 tasa
 del
 impuesto
-a
 las
 ganancias
 al
@@ -1697,7 +1607,6 @@ ypf
 en
 argentina
 ascendia
-a
 millones
 los
 cuales
@@ -1706,7 +1615,6 @@ generaron
 en
 su
 totalidad
-a
 partir
 del
 º
@@ -1715,7 +1623,6 @@ enero
 de
 que
 computados
-a
 la
 tasa
 impositiva
@@ -1737,14 +1644,11 @@ quebranto
 impositivo
 acumulado
 en
-y
 consecuentemente
 ha
 comenzado
-a
 devengar
 impuesto
-a
 las
 ganancias
 en
@@ -1765,7 +1669,6 @@ en
 concepto
 de
 impuesto
-a
 las
 ganancias
 por
@@ -1774,7 +1677,6 @@ actividades
 de
 la
 sociedad
-y
 sus
 sociedades
 controladas
@@ -1815,7 +1717,6 @@ de
 millones
 por
 dividendos
-a
 las
 acciones
 preferidas
@@ -1837,7 +1738,6 @@ anterior
 la
 disminucion
 corresponde
-a
 los
 rescates
 de
@@ -1865,7 +1765,6 @@ meses
 de
 crecio
 un
-a
 millones
 en
 comparacion
@@ -1881,14 +1780,12 @@ mayores
 precios
 del
 crudo
-y
 gas
 natural
 mayores
 volumenes
 de
 crudo
-y
 gas
 oil
 mejoras
@@ -1899,7 +1796,6 @@ operativa
 de
 ypf
 international
-y
 los
 esfuerzos
 realizados
@@ -1921,7 +1817,6 @@ productos
 derivados
 de
 petroleo
-a
 pesar
 del
 significativo
@@ -1942,7 +1837,6 @@ nueve
 meses
 de
 disminuyo
-a
 millones
 de
 millones
@@ -1956,11 +1850,8 @@ mayor
 cargo
 por
 impuesto
-a
 las
 ganancias
-y
-a
 la
 ausencia
 de
@@ -1977,15 +1868,12 @@ impositivas
 hechos
 antes
 explicados
-y
 ganancias
 por
 exposicion
-a
 la
 inflacion
 debido
-a
 la
 eliminacion
 del
@@ -1993,14 +1881,12 @@ ajuste
 por
 inflacion
 exploracion
-y
 produccion
 la
 ganancia
 operativa
 de
 exploracion
-y
 produccion
 para
 los
@@ -2009,7 +1895,6 @@ primeros
 meses
 de
 crecio
-a
 millones
 respecto
 de
@@ -2019,15 +1904,12 @@ del
 año
 anterior
 debido
-a
 los
 mayores
 precios
-y
 volumenes
 del
 crudo
-y
 los
 mejores
 precios
@@ -2063,12 +1945,10 @@ nueve
 meses
 de
 aumentaron
-a
 mil
 barriles
 diarios
 frente
-a
 los
 mil
 barriles
@@ -2086,7 +1966,6 @@ meses
 de
 disminuyo
 levemente
-a
 millones
 de
 pies
@@ -2104,7 +1983,6 @@ diarios
 en
 debido
 fundamentalmente
-a
 la
 iniciacion
 de
@@ -2113,7 +1991,6 @@ en
 enero
 de
 al
-area
 aguada
 pichana
 por
@@ -2133,7 +2010,6 @@ servicio
 con
 total
 austral
-sa
 los
 esfuerzos
 en
@@ -2167,19 +2043,14 @@ exportacion
 de
 gas
 natural
-a
 brasil
 dos
 pozos
 chango
 norte
-x
-y
 porcelana
-x
 fueron
 perforados
-y
 testeados
 con
 exito
@@ -2193,7 +2064,6 @@ pozo
 esta
 siendo
 perforado
-y
 puesto
 en
 estudio
@@ -2205,9 +2075,7 @@ primer
 pozo
 exploratorio
 del
-area
 acambuco
-y
 la
 perforacion
 del
@@ -2216,15 +2084,12 @@ pozo
 denominado
 san
 antonio
-x
 en
 esta
-area
 ha
 sido
 comenzada
 industrializacion
-y
 comercializacion
 downstream
 el
@@ -2237,14 +2102,11 @@ meses
 de
 de
 industrializacion
-y
 comercializacion
 ascendio
-a
 millones
 disminuyendo
 respecto
-a
 los
 millones
 obtenidos
@@ -2262,7 +2124,6 @@ mayores
 costos
 del
 crudo
-y
 los
 cambios
 ciclicos
@@ -2312,15 +2173,12 @@ de
 este
 segmento
 disminuyo
-a
 millones
 respecto
-a
 los
 millones
 en
 debido
-a
 una
 baja
 en
@@ -2339,7 +2197,6 @@ directorio
 de
 ypf
 aprob
-o
 cambios
 en
 su
@@ -2350,7 +2207,6 @@ leon
 presidente
 de
 ypf
-sa
 anuncio
 al
 directorio
@@ -2364,7 +2220,6 @@ retirarse
 de
 la
 presidencia
-a
 partir
 de
 fines
@@ -2376,11 +2231,9 @@ en
 que
 se
 llevara
-a
 cabo
 la
 asamblea
-general
 de
 accionistas
 que
@@ -2401,7 +2254,6 @@ se
 designe
 con
 efecto
-a
 partir
 de
 abril
@@ -2413,12 +2265,10 @@ madanes
 actual
 vicepresidente
 ejecutivo
-y
 director
 desde
 como
 presidente
-y
 al
 ing
 roberto
@@ -2426,10 +2276,7 @@ monti
 como
 vicepresidente
 ejecutivo
-y
 gerente
-general
-a
 cargo
 de
 la
@@ -2439,7 +2286,6 @@ de
 la
 sociedad
 sujeto
-a
 su
 nombramiento
 como
@@ -2461,9 +2307,7 @@ agosto
 de
 como
 presidente
-y
 gerente
-general
 de
 la
 sociedad
@@ -2471,7 +2315,6 @@ subsidiaria
 maxus
 energy
 corporation
-y
 fue
 elegido
 como
@@ -2479,12 +2322,10 @@ director
 suplente
 de
 ypf
-sa
 en
 la
 ultima
 asamblea
-general
 de
 accionistas
 maxus
@@ -2493,7 +2334,6 @@ su
 contrato
 de
 operaci
-on
 en
 ecuador
 en
@@ -2511,7 +2351,6 @@ el
 contrato
 de
 servicios
-a
 riesgo
 con
 maxus
@@ -2529,7 +2368,6 @@ en
 septiembre
 de
 maxus
-y
 el
 gobierno
 comenzaron
@@ -2537,7 +2375,6 @@ las
 negociaciones
 en
 relacion
-a
 este
 contrato
 si
@@ -2545,7 +2382,6 @@ bien
 el
 acuerdo
 final
-no
 ha
 sido
 firmado
@@ -2556,7 +2392,6 @@ el
 cpc
 sea
 efectivo
-a
 partir
 del
 de
@@ -2572,7 +2407,6 @@ del
 tipo
 de
 contrato
-no
 tendra
 un
 efecto
@@ -2634,7 +2468,6 @@ barriles
 de
 petroleo
 crudo
-a
 efectuarse
 durante
 el
@@ -2646,7 +2479,6 @@ estos
 contratos
 ypf
 pagara
-o
 cobrara
 la
 diferencia
@@ -2658,10 +2490,8 @@ fijo
 del
 wti
 de
-us
 por
 barril
-y
 el
 precio
 de
@@ -2674,7 +2504,6 @@ con
 amoco
 corporation
 ypf
-sa
 conjuntamente
 con
 amoco
@@ -2692,17 +2521,14 @@ maxus
 energy
 corporation
 subsidiaria
-y
 brazo
 operativo
 de
 ypf
 international
-y
 amoco
 han
 llegado
-a
 un
 principio
 de
@@ -2731,7 +2557,6 @@ america
 maxus
 se
 asociara
-a
 traves
 de
 su
@@ -2750,15 +2575,11 @@ al
 joint
 venture
 con
-areas
 petroleras
-y
 gasiferas
-y
 otros
 activos
 relacionados
-a
 su
 explotacion
 ubicados
@@ -2768,7 +2589,6 @@ region
 del
 texas
 panhandle
-y
 el
 oeste
 de
@@ -2790,7 +2610,6 @@ venture
 entre
 en
 vigencia
-a
 comienzos
 del
 proximo
@@ -2818,7 +2637,6 @@ las
 compañias
 han
 acordado
-no
 emitir
 informacion
 adicional
@@ -2886,7 +2704,6 @@ en
 una
 proporcion
 igual
-a
 la
 participacion
 de
@@ -2919,7 +2736,6 @@ en
 una
 proporcion
 igual
-a
 la
 participacion
 de
@@ -2929,15 +2745,12 @@ todas
 las
 erogaciones
 destinadas
-a
 exploracion
 fuente
 ministerio
 de
 economia
-y
 obras
-y
 servicios
 publicos
 estimaciones
@@ -2950,7 +2763,6 @@ refleja
 la
 informacion
 correspondientes
-a
 los
 periodos
 en
@@ -2960,11 +2772,9 @@ fue
 controlada
 por
 ypf
-sa
 incluye
 todas
 las
 erogaciones
 destinadas
-a
 exploracion

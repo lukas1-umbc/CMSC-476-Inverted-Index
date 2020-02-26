@@ -2,7 +2,6 @@ acu
 senate
 ratings
 republicans
-in
 bold
 type
 acu
@@ -62,7 +61,6 @@ ford
 huddleston
 louisiana
 johnston
-long
 maine
 cohen
 muskie
@@ -93,20 +91,15 @@ zorinsky
 nevada
 cannon
 laxalt
-new
 hampshire
 durkin
 humphrey
-g
-new
 jersey
 bradley
 williams
-new
 mexico
 domenici
 schmitt
-new
 york
 javits
 moynihan
@@ -117,7 +110,6 @@ morgan
 north
 dakota
 burdick
-young
 ohio
 glenn
 metzenbaum
@@ -156,7 +148,6 @@ leahy
 stafford
 virginia
 bryd
-h
 warner
 washington
 jackson

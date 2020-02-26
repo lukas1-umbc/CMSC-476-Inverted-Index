@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 bold
 type
 acu
@@ -18,7 +17,6 @@ flippo
 erdreich
 shelby
 alaska
-young
 arizona
 mccain
 udall
@@ -36,9 +34,7 @@ clausen
 matsui
 fazio
 burton
-s
 burton
-s
 boxer
 dellums
 stark
@@ -102,7 +98,6 @@ chappell
 mccollum
 mackay
 gibbons
-young
 bilirakis
 ireland
 nelson
@@ -137,7 +132,7 @@ hayes
 washington
 savage
 russo
-obrien
+brien
 lipinski
 hyde
 collins
@@ -153,7 +148,6 @@ martin
 evans
 michel
 crane
-d
 durbin
 price
 simon
@@ -197,13 +191,11 @@ roemer
 huckaby
 moore
 breaux
-long
 maine
 mckernan
 snowe
 maryland
 dyson
-long
 mikulski
 holt
 hoyer
@@ -213,12 +205,11 @@ barnes
 massachusetts
 conte
 boland
-early
 frank
 shannon
 mavroules
 markey
-oneill
+neill
 moakley
 studds
 donnelly
@@ -239,7 +230,6 @@ bonior
 crockett
 hertel
 ford
-w
 dingell
 levin
 broomfield
@@ -260,8 +250,6 @@ dowdy
 lott
 missouri
 clay
-young
-r
 gephart
 skelton
 wheat
@@ -271,7 +259,6 @@ emerson
 volkmer
 montana
 williams
-p
 marlenee
 nebraska
 bereuter
@@ -280,11 +267,9 @@ smith
 nevada
 reid
 vucanovich
-new
 hampshire
-damours
+amours
 gregg
-new
 jersey
 florio
 hughes
@@ -300,12 +285,10 @@ minish
 courter
 forsythe
 guarini
-new
 mexico
 lujan
 skeen
 richardson
-new
 york
 carney
 downey
@@ -362,7 +345,6 @@ ohio
 luken
 gradison
 hall
-t
 oxley
 latta
 mcewen
@@ -387,16 +369,13 @@ synar
 watkins
 mccurdy
 edwards
-m
 english
 oregon
 aucoin
 smith
-r
 wyden
 weaver
 smith
-d
 pennsylvania
 foglietta
 gray
@@ -412,7 +391,6 @@ harrison
 murtha
 coughlin
 coyne
-w
 ritter
 walker
 gekas
@@ -421,7 +399,6 @@ goodling
 gaydos
 ridge
 murphy
-a
 clinger
 rhode
 island
@@ -454,7 +431,6 @@ hall
 wilson
 bartlett
 hall
-r
 bryant
 gramm
 archer
@@ -491,7 +467,6 @@ whitehurst
 bliley
 sisisky
 daniel
-d
 olin
 robinson
 parris

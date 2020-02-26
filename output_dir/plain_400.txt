@@ -1,6 +1,5 @@
 acu
 ratings
-us
 senate
 alabama
 allen
@@ -55,7 +54,6 @@ cook
 huddleston
 louisiana
 johnston
-long
 maine
 hathaway
 muskie
@@ -86,19 +84,14 @@ hruska
 nevada
 bible
 cannon
-new
 hampshire
 cotton
 mcintyre
-new
 jersey
-case
 williams
-new
 mexico
 domenici
 montoya
-new
 york
 buckley
 javits
@@ -109,7 +102,6 @@ helms
 north
 dakota
 burdick
-young
 ohio
 metzenbaum
 taft

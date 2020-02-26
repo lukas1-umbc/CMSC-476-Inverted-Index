@@ -1,6 +1,6 @@
 index
-of
 aw
 accesswatch
-accesswatchtar
+accesswatch
+tar
 size

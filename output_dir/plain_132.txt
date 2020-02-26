@@ -1,5 +1,4 @@
 illinois
-state
 university
 university
 research
@@ -7,13 +6,9 @@ office
 institutional
 animal
 care
-and
-use
 committee
 membership
 roster
-whats
-new
 uro
 services
 college
@@ -36,7 +31,6 @@ larry
 alferink
 psychology
 faculty
-member
 randy
 brunswick
 veterinarian
@@ -46,7 +40,6 @@ cheung
 biological
 sciences
 faculty
-member
 roy
 hall
 community
@@ -56,7 +49,6 @@ chris
 horvath
 philosophy
 faculty
-member
 ann
 mcguigan
 academic
@@ -69,7 +61,6 @@ peper
 gale
 taylor
 university
-of
 illinois
 laboratory
 animal
@@ -84,7 +75,6 @@ randy
 winter
 agriculture
 faculty
-member
 bruce
 yount
 community
@@ -92,6 +82,4 @@ representative
 original
 design
 produced
-by
-its
 graphics

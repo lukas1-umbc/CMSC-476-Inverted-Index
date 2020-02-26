@@ -20,7 +20,8 @@ chihuido
 de
 la
 sierra
-negrolomitas
+negro
+lomitas
 en
 la
 zona
@@ -43,7 +44,6 @@ los
 costos
 de
 produccion
-y
 mantenimiento
 en
 ypf
@@ -77,8 +77,6 @@ permitieran
 sus
 yacimientos
 subexplotados
-y
-no
 desarrollados
 esta
 estrategia
@@ -93,7 +91,6 @@ las
 actividades
 de
 desarrollo
-y
 produccion
 habian
 alcanzado
@@ -130,7 +127,6 @@ reservas
 de
 la
 compañia
-y
 los
 recursos
 de
@@ -149,9 +145,7 @@ valor
 de
 las
 reservas
-y
 permitira
-a
 la
 empresa
 mantener
@@ -188,7 +182,6 @@ de
 incorporar
 nuevas
 reservas
-e
 incrementar
 la
 produccion
@@ -210,21 +203,18 @@ de
 recuperacion
 asistida
 reparaciones
-e
 intervenciones
 de
 pozos
 perforaciones
 mas
 profundas
-y
 otras
 tecnicas
 muchas
 de
 las
 cuales
-no
 requieren
 la
 perforacion
@@ -276,20 +266,16 @@ que
 permitira
 incorporar
 reservas
-e
 incrementar
 la
 produccion
-a
 bajo
 costo
 con
 bajo
 riesgo
-y
 sin
 recurrir
-a
 significativas
 perforaciones
 de
@@ -374,7 +360,6 @@ se
 ha
 programado
 perforar
-o
 convertir
 aproximadamente
 pozos
@@ -396,7 +381,6 @@ en
 la
 cuenca
 cuyana
-y
 en
 la
 cuenca
@@ -435,7 +419,6 @@ barriles
 con
 esa
 tecnica
-y
 barriles
 en
 hacia
@@ -446,7 +429,6 @@ presente
 decada
 la
 produccion
-a
 obtener
 por
 recuperacion
@@ -482,7 +464,6 @@ pedrito
 xp
 en
 el
-no
 de
 argentina
 explora
@@ -498,7 +479,6 @@ el
 proyecto
 de
 exportacion
-a
 brasil
 los
 helicopteros
@@ -511,7 +491,6 @@ equipo
 de
 perforacion
 personal
-y
 todos
 los
 insumos
@@ -560,8 +539,8 @@ por
 inyeccion
 de
 gas
-gaslift
-y
+gas
+lift
 sistemas
 de
 mantenimiento
@@ -648,7 +627,6 @@ tambien
 se
 utiliza
 sismica
-d
 tridimensional
 para
 mejorar
@@ -657,7 +635,6 @@ comprension
 de
 la
 geometria
-y
 localizacion
 de
 formaciones
@@ -668,8 +645,6 @@ registraron
 km
 de
 sismica
-d
-y
 se
 ha
 programado
@@ -681,4 +656,3 @@ otros
 km
 de
 sismica
-d

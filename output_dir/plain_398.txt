@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 bold
 type
 alabama
@@ -14,7 +13,6 @@ buchanan
 bevill
 jones
 alaska
-young
 arizona
 rhodes
 udall
@@ -57,7 +55,6 @@ bell
 danielson
 roybal
 wilson
-c
 hosmer
 pettis
 hanna
@@ -67,7 +64,6 @@ burke
 brown
 hinshaw
 wilson
-b
 van
 deerlin
 bergener
@@ -86,7 +82,6 @@ mckinney
 sarasin
 grasso
 delaware
-l
 dupont
 florida
 sikes
@@ -94,7 +89,6 @@ fuqua
 bennett
 chappell
 gunter
-young
 gibbons
 haley
 frey
@@ -109,7 +103,6 @@ ginn
 mathis
 brinkley
 blackburn
-young
 flynt
 davis
 stuckey
@@ -131,14 +124,13 @@ collier
 collins
 rostenkowski
 yates
-young
 annunzio
 crane
 mcclory
 erlenborn
 arends
 anderson
-obrien
+brien
 michel
 railsback
 findley
@@ -187,13 +179,11 @@ waggonner
 passman
 rarick
 breaux
-long
 maine
 kyros
 cohen
 maryland
 bauman
-long
 sarbanes
 holt
 hogan
@@ -208,7 +198,7 @@ drinan
 cronin
 harrington
 macdonald
-oneill
+neill
 moskley
 heckler
 burke
@@ -219,7 +209,6 @@ esch
 brown
 hutchinson
 ford
-g
 chamberlain
 riegle
 harvey
@@ -227,11 +216,10 @@ vander
 jagt
 cederberg
 ruppe
-ohara
+hara
 diggs
 nedzi
 ford
-w
 dingell
 griffiths
 huber
@@ -271,11 +259,9 @@ mccollister
 martin
 nevada
 towell
-new
 hampshire
 wyman
 cleveland
-new
 jersey
 hunt
 sandman
@@ -292,11 +278,9 @@ rinaldo
 maraziti
 daniels
 patten
-new
 mexico
 lujan
 runnels
-new
 york
 pike
 grover
@@ -364,8 +348,6 @@ powell
 ashley
 miller
 stanton
-j
-w
 devine
 mosher
 seiberling
@@ -375,7 +357,6 @@ ashbrook
 hays
 carney
 stanton
-j
 stokes
 vanik
 minshall
@@ -429,7 +410,6 @@ spence
 dorn
 mann
 gettys
-young
 south
 dakota
 denholm
@@ -457,7 +437,6 @@ pickle
 poage
 wright
 price
-young
 de
 la
 garza
@@ -476,13 +455,10 @@ owens
 vermont
 mallary
 virginia
-downing
 whitehurst
 satterfield
 daniel
-rw
 daniel
-wc
 butler
 robinson
 parris

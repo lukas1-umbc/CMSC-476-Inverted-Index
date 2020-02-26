@@ -1,6 +1,6 @@
 industrial
-casestudy
-a
-waterjet
+study
+water
+jet
 cutting
 workcell

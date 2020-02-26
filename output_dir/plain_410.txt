@@ -1,6 +1,5 @@
 acu
 ratings
-us
 house
 alabama
 edwards
@@ -11,7 +10,6 @@ flippo
 buchanan
 shelby
 alaska
-young
 arizona
 rhodes
 udall
@@ -28,9 +26,7 @@ clausen
 matsui
 fazio
 burton
-j
 burton
-p
 miller
 dellums
 stark
@@ -56,7 +52,6 @@ dixon
 hawkins
 danielson
 wilson
-c
 anderson
 grisham
 lungren
@@ -67,7 +62,6 @@ patterson
 dannemeyer
 badham
 wilson
-b
 van
 deerlin
 bergener
@@ -86,8 +80,6 @@ ratchford
 moffett
 delaware
 evans
-t
-b
 jr
 florida
 hutto
@@ -95,7 +87,6 @@ fuqua
 bennett
 chappell
 kelly
-young
 gibbons
 ireland
 nelson
@@ -140,13 +131,12 @@ mcclory
 erlenborn
 corcoran
 anderson
-obrien
+brien
 michel
 railsback
 findley
 madigan
 crane
-d
 price
 simon
 indiana
@@ -187,17 +177,14 @@ livingston
 boggs
 tauzin
 leach
-c
 huckaby
 moore
 breaux
-long
 maine
 emery
 snowe
 maryland
 bauman
-long
 mikulski
 holt
 spellman
@@ -207,12 +194,11 @@ barnes
 massachusetts
 conte
 boland
-early
 drinan
 shannon
 mavroules
 markey
-oneill
+neill
 moakley
 heckler
 donnelly
@@ -234,7 +220,6 @@ bonior
 diggs
 nedzi
 ford
-w
 dingell
 brodhead
 blanchard
@@ -256,8 +241,6 @@ hinson
 lott
 missouri
 clay
-young
-r
 gephart
 skelton
 bolling
@@ -268,7 +251,6 @@ volkmer
 burlison
 montana
 williams
-p
 marelenee
 nebraska
 bereuter
@@ -276,11 +258,9 @@ cavanaugh
 smith
 nevada
 santini
-new
 hampshire
-damours
+amours
 cleveland
-new
 jersey
 florio
 hughes
@@ -297,11 +277,9 @@ rinaldo
 courter
 guarini
 patten
-new
 mexico
 lujan
 runnels
-new
 york
 carney
 downey
@@ -362,7 +340,6 @@ ohio
 gradison
 luken
 hall
-t
 guyer
 latta
 harsha
@@ -371,8 +348,6 @@ kindness
 ashley
 miller
 stanton
-j
-w
 devine
 pease
 seiberling
@@ -381,7 +356,6 @@ regula
 ashbrook
 applegate
 williams
-l
 oaker
 stokes
 vanik
@@ -392,7 +366,6 @@ synar
 watkins
 steed
 edwards
-m
 english
 oregon
 aucoin
@@ -401,7 +374,6 @@ duncan
 weaver
 pennsylvania
 myers
-m
 gray
 lederer
 dougherty
@@ -423,7 +395,6 @@ goodling
 gaydos
 bailey
 murphy
-a
 clinger
 marks
 atkinson
@@ -490,9 +461,7 @@ trible
 whitehurst
 satterfield
 daniel
-rw
 daniel
-d
 butler
 robinson
 harris

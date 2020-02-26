@@ -8,8 +8,6 @@ se
 incremento
 un
 llegando
-a
-us
 por
 millon
 de
@@ -28,7 +26,8 @@ promedio
 millones
 de
 pies
-cubicosdia
+cubicos
+dia
 fue
 inferior
 al
@@ -55,7 +54,6 @@ en
 la
 cuenca
 neuquina
-a
 fin
 de
 cumplir
@@ -91,7 +89,6 @@ natural
 en
 la
 argentina
-y
 en
 los
 mercados
@@ -99,7 +96,6 @@ regionales
 de
 america
 latina
-y
 desarrollar
 ademas
 oportunidades
@@ -125,7 +121,6 @@ habran
 de
 obtener
 beneficios
-a
 partir
 de
 la
@@ -154,7 +149,6 @@ transportadoras
 de
 gas
 natural
-a
 nivel
 local
 el
@@ -183,7 +177,6 @@ para
 suministrar
 gas
 natural
-a
 nuevas
 plantas
 generadoras
@@ -194,13 +187,11 @@ se
 iniciaron
 las
 entregas
-a
 las
 plantas
 generadoras
 el
 brachito
-y
 rio
 negro
 actualmente
@@ -254,7 +245,6 @@ de
 pies
 cubicos
 diarios
-a
 partir
 de
 los
@@ -304,20 +294,18 @@ convenio
 por
 años
 compromete
-a
 ypf
 con
 dos
 empresas
 asociadas
-a
 suministrar
-a
 methanex
 millones
 de
 pies
-cubicosdia
+cubicos
+dia
 de
 gas
 producido
@@ -337,7 +325,6 @@ para
 comenzar
 las
 exportaciones
-a
 fines
 de
 ypf
@@ -368,7 +355,6 @@ para
 exportar
 gas
 natural
-a
 chile
 incluyendo
 el
@@ -394,18 +380,17 @@ transportar
 millones
 de
 pies
-cubicosdia
+cubicos
+dia
 desde
 la
 cuenca
 neuquina
-a
 importantes
 ciudades
 chilenas
 aunque
 todavia
-no
 es
 segura
 la
@@ -417,7 +402,6 @@ los
 dos
 gasoductos
 proyectados
-y
 tampoco
 su
 financiacion
@@ -433,7 +417,6 @@ aporte
 los
 mayores
 volumenes
-a
 ser
 transportados
 el
@@ -443,7 +426,6 @@ es
 una
 importante
 meta
-a
 largo
 plazo
 para
@@ -460,7 +442,6 @@ de
 gas
 natural
 ypf
-y
 sus
 socios
 estudian
@@ -478,7 +459,8 @@ pies
 cubicos
 de
 gas
-naturaldia
+natural
+dia
 desde
 la
 cuenca
@@ -578,11 +560,9 @@ impulso
 las
 perspectivas
 exploratorias
-y
 gasiferas
 del
 proyecto
-y
 se
 considera
 mas
@@ -592,7 +572,6 @@ factibilidad
 de
 exportar
 gas
-a
 brasil
 simultaneamente
 en
@@ -600,7 +579,6 @@ el
 yacimiento
 acambuco
 cercano
-a
 aguarague
 ypf
 esta
@@ -613,11 +591,9 @@ profundo
 en
 san
 pedrito
-x
 en
 la
 misma
-area
 se
 estan
 perforando
@@ -628,7 +604,6 @@ exploratorios
 el
 chango
 norte
-y
 el
 porcelana
 ypf
@@ -652,7 +627,6 @@ demanda
 especialmente
 en
 verano
-y
 aumentar
 los
 volumenes
@@ -702,5 +676,4 @@ reservas
 adicionales
 de
 gas
-y
 petroleo

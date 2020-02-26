@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 caps
 acu
 key
@@ -60,13 +59,11 @@ bell
 danielson
 roybal
 wilson
-c
 hosmer
 pettis
 hanna
 schmitz
 wilson
-b
 van
 deerlin
 veysey
@@ -92,7 +89,6 @@ chappell
 frey
 gibbons
 haley
-young
 rogers
 burke
 pepper
@@ -181,13 +177,11 @@ waggonner
 passman
 rarick
 edwards
-long
 maine
 kyros
 hathaway
 maryland
 mills
-long
 garmatz
 sarbanes
 hogan
@@ -202,7 +196,7 @@ donohue
 morse
 harrington
 macdonald
-oneill
+neill
 hicks
 heckler
 burke
@@ -213,18 +207,16 @@ esch
 brown
 hutchinson
 ford
-g
 riegle
 harvey
 vander
 jagt
 cederberg
 ruppe
-ohara
+hara
 diggs
 nedzi
 ford
-w
 dingell
 griffiths
 broomfield
@@ -264,11 +256,9 @@ mccollister
 martin
 nevada
 baring
-new
 hampshire
 wyman
 cleveland
-new
 jersey
 hunt
 sandman
@@ -285,11 +275,9 @@ dwyer
 gallagher
 daniels
 patten
-new
 mexico
 lujan
 runnels
-new
 york
 pike
 grover
@@ -361,7 +349,6 @@ betts
 ashley
 miller
 stanton
-jw
 devine
 seiberling
 wylie
@@ -370,7 +357,6 @@ ashbrook
 hays
 carney
 stanton
-j
 stokes
 vanik
 minshall
@@ -456,7 +442,6 @@ pickle
 poage
 wright
 purcell
-young
 de
 la
 garza
@@ -474,7 +459,6 @@ lloyd
 vermont
 vacancy
 virginia
-downing
 whitehurst
 satterfield
 abbitt
@@ -509,6 +493,6 @@ steiger
 obey
 byrnes
 davis
-okonski
+konski
 wyoming
 roncalio

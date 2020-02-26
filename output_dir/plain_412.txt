@@ -3,7 +3,6 @@ acu
 house
 ratings
 republicans
-in
 caps
 alabama
 edwards
@@ -14,7 +13,6 @@ flippo
 smith
 shelby
 alaska
-young
 arizona
 rhodes
 udall
@@ -31,9 +29,7 @@ clausen
 matsui
 fazio
 burton
-j
 burton
-p
 miller
 dellums
 stark
@@ -86,8 +82,6 @@ ratchford
 moffett
 delaware
 evans
-t
-b
 jr
 florida
 hutto
@@ -95,7 +89,6 @@ fuqua
 bennett
 chappell
 mccollum
-young
 gibbons
 ireland
 nelson
@@ -140,13 +133,12 @@ mcclory
 erlenborn
 corcoran
 martin
-obrien
+brien
 michel
 railsback
 findley
 madigan
 crane
-d
 price
 simon
 indiana
@@ -190,13 +182,11 @@ roemer
 huckaby
 moore
 breaux
-long
 maine
 emery
 snowe
 maryland
 dyson
-long
 mikulski
 holt
 hoyer
@@ -206,12 +196,11 @@ barnes
 massachusetts
 conte
 boland
-early
 frank
 shannon
 mavroules
 markey
-oneill
+neill
 moakley
 heckler
 donnelly
@@ -233,7 +222,6 @@ bonior
 crockett
 hertel
 ford
-w
 dingell
 brodhead
 blanchard
@@ -255,8 +243,6 @@ dowdy
 lott
 missouri
 clay
-young
-r
 gephart
 skelton
 bolling
@@ -267,7 +253,6 @@ volkmer
 emerson
 montana
 williams
-p
 marlenee
 nebraska
 bereuter
@@ -275,11 +260,9 @@ daub
 smith
 nevada
 santini
-new
 hampshire
-damours
+amours
 gregg
-new
 jersey
 florio
 hughes
@@ -296,11 +279,9 @@ rinaldo
 courter
 guarini
 dwyer
-new
 mexico
 lujan
 skeen
-new
 york
 carney
 downey
@@ -361,7 +342,6 @@ ohio
 gradison
 luken
 hall
-t
 oxley
 latta
 mcewen
@@ -370,8 +350,6 @@ kindness
 weber
 miller
 stanton
-j
-w
 shamansky
 pease
 seiberling
@@ -380,7 +358,6 @@ regula
 ashbrook
 applegate
 williams
-l
 oaker
 stokes
 eckert
@@ -391,7 +368,6 @@ synar
 watkins
 mccurdy
 edwards
-m
 english
 oregon
 aucoin
@@ -407,14 +383,12 @@ schulze
 yatron
 edgar
 coyne
-j
 shuster
 mcdade
 nelligan
 murtha
 coughlin
 coyne
-w
 ritter
 walker
 ertel
@@ -423,7 +397,6 @@ goodling
 gaydos
 bailey
 murphy
-a
 clinger
 marks
 atkinson
@@ -458,7 +431,6 @@ hall
 wilson
 collins
 hall
-r
 mattox
 gramm
 archer
@@ -491,9 +463,7 @@ trible
 whitehurst
 bliley
 daniel
-rw
 daniel
-d
 butler
 robinson
 parris

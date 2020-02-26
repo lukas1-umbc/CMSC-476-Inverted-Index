@@ -2,7 +2,6 @@ acu
 senate
 ratings
 republicans
-in
 bold
 type
 acu
@@ -61,7 +60,6 @@ kentucky
 huddleston
 ford
 louisiana
-long
 johnston
 maine
 muskie
@@ -93,19 +91,14 @@ curtis
 nevada
 cannon
 laxalt
-new
 hampshire
 mcintyre
 durkin
-new
 jersey
-case
 williams
-new
 mexico
 montoya
 domenici
-new
 york
 javits
 buckley
@@ -115,7 +108,6 @@ helms
 morgan
 north
 dakota
-young
 burdick
 ohio
 taft

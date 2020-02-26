@@ -1,6 +1,5 @@
 acu
 ratings
-us
 senate
 alabama
 heflin
@@ -55,7 +54,6 @@ ford
 huddleston
 louisiana
 johnston
-long
 maine
 mitchell
 cohen
@@ -86,20 +84,15 @@ zorinsky
 nevada
 cannon
 laxalt
-new
 hampshire
 durkin
 humphrey
-g
-new
 jersey
 bradley
 williams
-new
 mexico
 domenici
 schmitt
-new
 york
 moynihan
 javits
@@ -110,7 +103,6 @@ helms
 north
 dakota
 burdick
-young
 ohio
 glenn
 metzenbaum
@@ -149,7 +141,6 @@ leahy
 stafford
 virginia
 bryd
-h
 warner
 washington
 jackson

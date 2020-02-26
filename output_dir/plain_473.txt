@@ -1,20 +1,17 @@
 la
 sismica
-d
 se
 utiliza
 para
 optimizar
 las
 locaciones
-a
 perforar
 para
 el
 desarrollo
 de
 campos
-e
 identificar
 la
 calidad
@@ -44,7 +41,6 @@ actividades
 de
 exploracion
 desarrollo
-y
 produccion
 en
 exploracion
@@ -52,7 +48,6 @@ la
 empresa
 utiliza
 sismica
-d
 para
 aumentar
 el
@@ -65,11 +60,9 @@ la
 calidad
 exploratoria
 de
-areas
 con
 buenas
 perspectivas
-y
 optimizar
 las
 ubicaciones
@@ -102,7 +95,6 @@ la
 interpretacion
 geologica
 geofisica
-y
 de
 imagenes
 satelitales
@@ -116,7 +108,6 @@ se
 realiza
 modelado
 geoquimico
-y
 analisis
 de
 equilibrio
@@ -134,7 +125,6 @@ para
 mejorar
 la
 administracion
-y
 manejo
 de
 los
@@ -143,7 +133,6 @@ ademas
 de
 la
 sismica
-d
 que
 permite
 definir
@@ -167,7 +156,6 @@ programas
 de
 recuperacion
 secundaria
-y
 estructurar
 programas
 de
@@ -194,18 +182,15 @@ empresa
 redujo
 significativamente
 costos
-y
 mermas
 de
 produccion
-y
 mejoro
 el
 rendimiento
 de
 los
 pozos
-a
 traves
 del
 monitoreo
@@ -227,7 +212,6 @@ mejorar
 significativamente
 la
 produccion
-y
 la
 recuperacion
 de
@@ -279,7 +263,6 @@ encuentra
 en
 su
 tecnologia
-y
 metodos
 de
 evaluacion
@@ -292,7 +275,6 @@ esta
 incorporando
 estas
 tecnicas
-a
 sus
 propios
 actividades

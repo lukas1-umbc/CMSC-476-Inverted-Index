@@ -2,7 +2,6 @@ acu
 house
 ratings
 republicans
-in
 bold
 type
 acu
@@ -16,14 +15,12 @@ alabama
 edwards
 dickson
 andrews
-e
 nichols
 flowers
 buchanan
 bevill
 jones
 alaska
-l
 begich
 arizona
 rhodes
@@ -66,13 +63,11 @@ bell
 danielson
 roybal
 wilson
-c
 hosmer
 pettis
 hanna
 schmitz
 wilson
-b
 van
 deerlin
 veysey
@@ -89,7 +84,6 @@ mckinney
 monagan
 grasso
 delaware
-l
 dupont
 florida
 sikes
@@ -99,7 +93,6 @@ chappell
 frey
 gibbons
 haley
-young
 rogers
 burke
 pepper
@@ -188,13 +181,11 @@ waggonner
 passman
 rarick
 breaux
-long
 maine
 kyros
 hathaway
 maryland
 mills
-long
 garmatz
 sarbanes
 hogan
@@ -209,7 +200,7 @@ donohue
 vacancy
 harrington
 macdonald
-oneill
+neill
 hicks
 heckler
 burke
@@ -220,7 +211,6 @@ esch
 brown
 hutchinson
 ford
-g
 chamberlain
 riegle
 harvey
@@ -228,11 +218,10 @@ vander
 jagt
 cederberg
 ruppe
-ohara
+hara
 diggs
 nedzi
 ford
-w
 dingell
 griffiths
 broomfield
@@ -272,11 +261,9 @@ mccollister
 martin
 nevada
 baring
-new
 hampshire
 wyman
 cleveland
-new
 jersey
 hunt
 sandman
@@ -293,11 +280,9 @@ dwyer
 gallagher
 daniels
 patten
-new
 mexico
 lujan
 runnels
-new
 york
 pike
 grover
@@ -369,8 +354,6 @@ betts
 ashley
 miller
 stanton
-j
-w
 devine
 mosher
 seiberling
@@ -380,7 +363,6 @@ ashbrook
 hays
 carney
 stanton
-j
 stokes
 vanik
 minshall
@@ -466,7 +448,6 @@ pickle
 poage
 wright
 purcell
-young
 de
 la
 garza
@@ -484,7 +465,6 @@ lloyd
 vermont
 mallary
 virginia
-downing
 whitehurst
 satterfield
 abbitt
@@ -519,6 +499,6 @@ steiger
 obey
 byrnes
 davis
-okonski
+konski
 wyoming
 roncalio

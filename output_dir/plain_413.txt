@@ -1,6 +1,5 @@
 acu
 ratings
-us
 senate
 alabama
 denton
@@ -54,7 +53,6 @@ kentucky
 huddleston
 ford
 louisiana
-long
 johnston
 maine
 cohen
@@ -86,23 +84,18 @@ exon
 nevada
 cannon
 laxalt
-new
 hampshire
 humphrey
-g
 rudman
-new
 jersey
 williams
 bradley
-new
 mexico
 domenici
 schmitt
-new
 york
 moynihan
-damato
+amato
 north
 carolina
 helms
@@ -149,7 +142,6 @@ stafford
 leahy
 virginia
 bryd
-h
 warner
 washington
 jackson
