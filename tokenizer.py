@@ -27,15 +27,11 @@ def tokenizeWords(text, filename, out_path, inv_index, stop_set):
         #use regex to split tokens based on special characters (\W), underscores, and decimals (\d)
         good_word_list = re.split("[\W|_|\d]+", word)
 
-        #strip word of special characters and numbers, make it lowercase
-        #good_word = ''.join(char for char in word if char.isalpha())
-        #good_word = good_word.lower()
-
         for good_word in good_word_list:
 
             good_word = good_word.lower()
             
-            #don't write the good words that are nothing after being stripped
+            #don't write words that are nothing after being stripped, or any stopwords
             if good_word not in stop_set and good_word != "":
                 plain_file.write(good_word + "\n")
 
@@ -48,6 +44,16 @@ def tokenizeWords(text, filename, out_path, inv_index, stop_set):
 
     plain_file.close()
     return NUM_TOKENS
+
+#remove all tokens whose frequency is less than the given threshold
+def removeLowFreq(inv_index, threshold):
+
+    #need copy of the dictionary because we can't delete from a dictionary while iterating through it
+    inv_index_copy = inv_index.copy()
+    for token, freq in inv_index_copy.items():
+        if freq <= threshold:
+            del inv_index[token]
+    return inv_index
 
 #creates file with list of tokens in alphabetical order
 def tokenOrderFile(inv_index):
@@ -81,6 +87,15 @@ def graphTimeVSDocs(time_axis, docs_axis):
     plt.ylabel("# Documents Processed")
     plt.savefig("time_vs_docs.png")
 
+#test to ensure stopwords are not in the index
+def testIndex(inv_index, stop_set):
+
+    for stop_word in stop_set:
+        if stop_word in inv_index.items():
+            print("fail")
+        else:
+            print("success")
+
 def main(argv):
 
     time_axis = []
@@ -112,7 +127,6 @@ def main(argv):
         for stop_word in stop_word_list:
             stop_set.add(stop_word)
     stop_file.close()
-    print(stop_set)
 
     #dictionary for all the tokens
     inv_index = {}
@@ -133,6 +147,10 @@ def main(argv):
         NUM_DOCS_PROCESSED += 1
         processed_time = time.time()
         time_axis.append(round(processed_time - start, 2))
+
+    #throw out tokens with frequency of 1
+    threshold = 1
+    inv_index = removeLowFreq(inv_index, threshold)
 
     #Make files
     tokenOrderFile(inv_index)
