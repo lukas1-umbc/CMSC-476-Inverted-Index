@@ -1,6 +1,0 @@
-industrial
-study
-water
-jet
-cutting
-workcell

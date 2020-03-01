@@ -1,4 +1,0 @@
-robotics
-simulation
-seeing
-picture

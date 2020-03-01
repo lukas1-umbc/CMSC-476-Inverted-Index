@@ -1,6 +1,0 @@
-netshade
-windows
-view
-security
-levels
-pane
