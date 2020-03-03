@@ -81,7 +81,7 @@ def weighTokens(filename, out_path, index, file_lengths):
         #if the current file has the token 
         if filename in index[token]:
             #tf*idf = (tf of word in document/length of document) * log(number of documents/number of docs containting word)
-            tfidf = (index[token][filename] / file_lengths[filename]) * math.log(len(file_lengths)/len(index[token]))
+            tfidf = (index[token][filename]) * math.log(len(file_lengths)/len(index[token]))
             weighted_dict[token] = round(tfidf, 5)
             
     for word, weight in sorted(weighted_dict.items(), key=lambda item: item[1], reverse=True):
