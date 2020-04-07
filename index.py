@@ -69,7 +69,7 @@ def removeLowFreq(postings_dict, threshold):
     return postings_dict
 
 #create postings dictionary, outputs postings to a file
-def createIndex(out_path, postings_dict, file_lengths):
+def createIndex(out_path, postings_dict, file_lengths, time_axis, docs_axis):
 
     #counter for the line being written to the postings file
     line_num = 0
@@ -87,13 +87,21 @@ def createIndex(out_path, postings_dict, file_lengths):
 
     for token in postings_dict:
 
+        file_num = 0
+
         #set the value of each document in the token's dictionary to the token's tfidf for that document
         for filename in postings_dict[token]:
+
+            start = time.time()
 
             #tf*idf = (tf of word in document/length of document) * log(number of documents/number of docs containting word)
             tfidf = (postings_dict[token][filename]) * math.log(len(file_lengths)/len(postings_dict[token]))
             tfidf = round(tfidf, 5)
             postings_dict[token][filename] = tfidf
+            
+            file_num += 1
+            if file_num in docs_axis:
+                time_axis[docs_axis.index(file_num)] += round(time.time() - start)
 
         #in the index, set the number of documents the token occurs in
         index[token][0] = len(postings_dict[token])
@@ -101,10 +109,19 @@ def createIndex(out_path, postings_dict, file_lengths):
         #in the index, set the location of the first record for the token in the postings file 
         index[token][1] = line_num
 
+        file_num = 0
+
         #write the filename and weight for that file of each token to postings file
         for filename, weight in postings_dict[token].items():
+
+            start = time.time()
+
             postings_file.write(filename + ", " + str(weight) + "\n")
             line_num += 1
+
+            file_num += 1
+            if file_num in docs_axis:
+                time_axis[docs_axis.index(file_num)] += round(time.time() - start)
 
         #write the index dictionary contents to the index file
         index_file.write(token + "\n" + str(index[token][0]) + "\n" + str(index[token][1]) + "\n")
@@ -112,7 +129,22 @@ def createIndex(out_path, postings_dict, file_lengths):
     postings_file.close()
     index_file.close()
 
+def graphTimeVSDocs(time_axis, docs_axis):
+
+    fig = plt.figure()
+    #line graph - time vs num docs processed
+    plt.xticks(docs_axis, docs_axis)
+    plt.plot(docs_axis, time_axis)
+    fig.suptitle("Time as a Function of Number of Documents Indexed")
+    plt.xlabel("# of Documents Indexed")
+    plt.ylabel("Time (s)")
+    plt.savefig("time_vs_docs.png")
+
+
 def main(argv):
+
+    docs_axis = [10, 20, 40, 80, 100, 200, 300, 400, 475]
+    time_axis = []
 
     #statistics
     NUM_DOCS_PROCESSED = 0
@@ -126,7 +158,7 @@ def main(argv):
     in_path = sys.argv[1]
     out_path = sys.argv[2]
 
-    #start = time.time()
+    start = time.time()
 
     #create output directory
     os.makedirs(out_path)
@@ -160,13 +192,18 @@ def main(argv):
 
         NUM_DOCS_PROCESSED += 1
 
+        if NUM_DOCS_PROCESSED in docs_axis:
+            time_axis.append(round(time.time() - start, 2))
 
     #throw out low frequency tokens
     threshold = 1
     postings_dict = removeLowFreq(postings_dict, threshold)
 
-    createIndex(out_path, postings_dict, file_lengths)
+    createIndex(out_path, postings_dict, file_lengths, time_axis, docs_axis)
+
+    graphTimeVSDocs(time_axis, docs_axis)
     
+    print("The program took " + str(time.time() - start) + " seconds to complete.")
     print(str(NUM_TOKENS) + " distinct tokens found.")
 
 if __name__ == "__main__":
